@@ -1,3 +1,4 @@
 command /안녕:
   trigger:
     send "ㅎㅇ염"
+    send "두번째"
